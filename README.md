@@ -13,10 +13,7 @@ Unreal 제작된 3인칭 RPG 디펜스 게임 Portfolio 입니다.
 사용 언어 : C++
 프로젝트에 구현된 기능. : 기본적인 움직임과 3인칭 시점, 몬스터 리스폰, 미션
 ```
-영상 링크 : https://youtu.be/D797rntxCwk
-
+영상 링크 : https://youtu.be/uqNm0XnWp3Y
 Notion 링크 : https://www.notion.so/overcle/d8ce4f7d8db2480dba35ba3f0fb217d2?pvs=4
 
-기술 문서 링크 :
-
-
+기술 문서 링크 : 제작중
