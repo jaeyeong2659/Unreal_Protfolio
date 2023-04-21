@@ -1,11 +1,6 @@
 # Unreal_Protfolio
 
-언리얼 포트폴리오
-Unreal Protfolio (3인칭 디펜스 게임)
-Unreal 제작된 3인칭 RPG 디펜스 게임 Portfolio 입니다.
-
 언리얼 포트폴리오 제작 자료입니다.
-
 기본적인 기본동작과, 스킬, 몬스터 오브젝트 풀, 미션, 보스, 보스 스킬, LevelSequence, UMG 등 구현 되어 있습니다.
 
 ```
