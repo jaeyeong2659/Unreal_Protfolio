@@ -11,7 +11,7 @@
 개발 환경   : Window 11, Visual Studio 2022
 개발 기간   : 20일
 사용 언어   : C++
-프로젝트에 구현된 기능. : 기본적인 기본동작과, 스킬, 몬스터 오브젝트 풀, 미션, 보스, 보스 스킬, LevelSequence, UMG 등
+프로젝트에 구현된 기능 : 기본적인 기본동작과, 스킬, 몬스터 오브젝트 풀, 미션, 보스, 보스 스킬, LevelSequence, UMG 등
 ```
 영상 링크 : https://youtu.be/uqNm0XnWp3Y
 
