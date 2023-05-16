@@ -9,6 +9,7 @@
 ```
 <프로젝트 개요>
 프로젝트 명 : Prisoner
+개발 인원   : 1인
 사용 엔진   : Unreal Engine 5.1
 개발 환경   : Window 11, Visual Studio 2022
 개발 기간   : 20일
