@@ -18,6 +18,6 @@
 ```
 영상 링크 : https://youtu.be/uqNm0XnWp3Y
 
-Notion 링크 : https://www.notion.so/overcle/d8ce4f7d8db2480dba35ba3f0fb217d2?pvs=4
+Notion 링크 : https://overcle.notion.site/Unreal-9a11ebe55b624b41aeae1eee41711621?pvs=4
 
 기술 문서 링크 : http://naver.me/5jjH5DfS
